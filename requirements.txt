@@ -1,0 +1,5 @@
+Flask==1.1.2
+opencv-python
+opencv-contrib-python
+urllib3
+requests
